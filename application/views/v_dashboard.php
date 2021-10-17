@@ -28,7 +28,7 @@
               <div class="inner">
                 <h3>53<sup style="font-size: 20px">%</sup></h3>
 
-                <p>Bounce Rate</p>
+                <p>Bounce Ratee</p>
               </div>
               <div class="icon">
                 <i class="ion ion-stats-bars"></i>
